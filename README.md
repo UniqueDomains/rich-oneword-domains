@@ -76,10 +76,10 @@ print(df.head())
 | seventeen.rich  | available | $149.99   | $299.99       | 84             | 62     | 9      | name.com         |
 | mega.rich       | resell    | —         | —             | 74             | 41     | 4      | Key-Systems, LLC |
 | ISO.rich        | premium   | —         | —             | 80             | 94     | 3      | —                |
-| free.rich       | available | $149.99   | $299.99       | 88             | 59     | 4      | name.com         |
+| ace.rich        | available | $149.99   | $299.99       | 88             | 57     | 3      | name.com         |
 | become.rich     | resell    | —         | —             | 86             | 20     | 6      | Dynadot Inc      |
 | indeed.rich     | premium   | —         | —             | 94             | 85     | 6      | —                |
-| ace.rich        | available | $149.99   | $299.99       | 88             | 57     | 3      | name.com         |
+| free.rich       | available | $149.99   | $299.99       | 88             | 57     | 4      | name.com         |
 | en.rich         | resell    | —         | —             | 80             | 16     | 6      | Dynadot Inc      |
 | AOL.rich        | premium   | —         | —             | 86             | 85     | 3      | —                |
 | good.rich       | available | $149.99   | $299.99       | 82             | 55     | 4      | name.com         |
