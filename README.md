@@ -1,10 +1,10 @@
-# Available .RICH One-Word Domains (12,450)
+# Available .RICH One-Word Domains (12,898)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C450%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C898%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .rich one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,450 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,898 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,450 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,898 domains
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/rich`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| makers.rich        | available | $94.99    | $1,999        | 62             | 67     | 6      | namesilo  |
-| Chanel.rich        | premium   | —         | —             | 80             | 77     | 6      | —         |
-| online.rich        | available | $149.99   | —             | 70             | 62     | 7      | name.com  |
-| Ryan.rich          | premium   | —         | —             | 60             | 44     | 4      | —         |
-| keepthechange.rich | available | $149.99   | —             | 46             | 59     | 15     | name.com  |
-| William.rich       | premium   | —         | —             | 74             | 31     | 7      | —         |
-| jobs.rich          | available | $149.99   | —             | 79             | 42     | 4      | name.com  |
-| CapeCod.rich       | premium   | —         | —             | 78             | 22     | 8      | —         |
-| shortcuts.rich     | available | $149.99   | —             | 48             | 41     | 10     | name.com  |
-| Places.rich        | premium   | —         | —             | 74             | 22     | 6      | —         |
-| matcha.rich        | available | $149.99   | —             | 86             | 39     | 6      | name.com  |
-| HarryPotter.rich   | premium   | —         | —             | 72             | 20     | 12     | —         |
-| whynot.rich        | available | $149.99   | —             | 74             | 39     | 7      | name.com  |
-| Automobiles.rich   | premium   | —         | —             | 62             | 17     | 11     | —         |
-| prompts.rich       | available | $94.99    | $1,999        | 54             | 39     | 7      | namesilo  |
-| Apples.rich        | premium   | —         | —             | 90             | 16     | 6      | —         |
-| justin.rich        | available | $149.99   | —             | 58             | 38     | 7      | name.com  |
-| Phillip.rich       | premium   | —         | —             | 70             | 14     | 7      | —         |
-| homes.rich         | available | $149.99   | —             | 86             | 34     | 5      | name.com  |
-| IChing.rich        | premium   | —         | —             | 68             | 14     | 7      | —         |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| makers.rich      | available | $94.99    | $1,999        | 62             | 67     | 6      | namesilo  |
+| Chanel.rich      | premium   | —         | —             | 80             | 77     | 6      | —         |
+| online.rich      | available | $149.99   | —             | 70             | 62     | 7      | name.com  |
+| Ryan.rich        | premium   | —         | —             | 60             | 44     | 4      | —         |
+| jobs.rich        | available | $149.99   | —             | 79             | 42     | 4      | name.com  |
+| William.rich     | premium   | —         | —             | 74             | 31     | 7      | —         |
+| shortcuts.rich   | available | $149.99   | —             | 48             | 41     | 10     | name.com  |
+| Places.rich      | premium   | —         | —             | 74             | 22     | 6      | —         |
+| whynot.rich      | available | $149.99   | —             | 74             | 39     | 7      | name.com  |
+| HarryPotter.rich | premium   | —         | —             | 72             | 20     | 12     | —         |
+| prompts.rich     | available | $94.99    | $1,999        | 54             | 39     | 7      | namesilo  |
+| Phillip.rich     | premium   | —         | —             | 70             | 14     | 7      | —         |
+| justin.rich      | available | $149.99   | —             | 58             | 38     | 7      | name.com  |
+| IChing.rich      | premium   | —         | —             | 68             | 14     | 7      | —         |
+| homes.rich       | available | $149.99   | —             | 86             | 34     | 5      | name.com  |
+| BRAS.rich        | premium   | —         | —             | 70             | 13     | 4      | —         |
+| tickets.rich     | available | $94.99    | $1,999        | 64             | 34     | 7      | namesilo  |
+| Rounds.rich      | premium   | —         | —             | 72             | 12     | 6      | —         |
+| partners.rich    | available | $149.99   | —             | 61             | 32     | 8      | name.com  |
+| Iwish.rich       | premium   | —         | —             | 58             | 12     | 6      | —         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,450 live domains                              |
+| 1,000-row public sample | 12,898 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .RICH One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .RICH One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
