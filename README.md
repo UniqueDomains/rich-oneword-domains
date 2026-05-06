@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .rich one-word domains from
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,898 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,898 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,898 domains · **Median ask:** $138.71 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/rich`  
 **Best for:** founders, investors, studios
 
@@ -64,8 +64,12 @@ print(df.head())
 
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| makers.rich      | available | $94.99    | $1,999        | 62             | 67     | 6      | namesilo  |
+| tips.rich        | available | $149.99   | —             | 80             | 26     | 4      | name.com  |
+| homes.rich       | available | $149.99   | —             | 86             | 34     | 5      | name.com  |
 | Chanel.rich      | premium   | —         | —             | 80             | 77     | 6      | —         |
+| finals.rich      | available | $94.99    | $1,999        | 80             | 7      | 6      | namesilo  |
+| playon.rich      | available | $149.99   | —             | 80             | 14     | 7      | name.com  |
+| makers.rich      | available | $94.99    | $1,999        | 62             | 67     | 6      | namesilo  |
 | online.rich      | available | $149.99   | —             | 70             | 62     | 7      | name.com  |
 | Ryan.rich        | premium   | —         | —             | 60             | 44     | 4      | —         |
 | jobs.rich        | available | $149.99   | —             | 79             | 42     | 4      | name.com  |
@@ -78,12 +82,8 @@ print(df.head())
 | Phillip.rich     | premium   | —         | —             | 70             | 14     | 7      | —         |
 | justin.rich      | available | $149.99   | —             | 58             | 38     | 7      | name.com  |
 | IChing.rich      | premium   | —         | —             | 68             | 14     | 7      | —         |
-| homes.rich       | available | $149.99   | —             | 86             | 34     | 5      | name.com  |
 | BRAS.rich        | premium   | —         | —             | 70             | 13     | 4      | —         |
 | tickets.rich     | available | $94.99    | $1,999        | 64             | 34     | 7      | namesilo  |
-| Rounds.rich      | premium   | —         | —             | 72             | 12     | 6      | —         |
-| partners.rich    | available | $149.99   | —             | 61             | 32     | 8      | name.com  |
-| Iwish.rich       | premium   | —         | —             | 58             | 12     | 6      | —         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,898 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 12,898 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection is made up of one-word .rich domains. The set spans literal terms, consumer words, and category-style names such as tips.rich, homes.rich, jewels.rich, and finals.rich. The median ask is 138.71, which keeps price comparison straightforward across a large pool. When comparing these domains, start with memorability and word clarity. Then check whether the term fits a premium, wealth, luxury, advice, property, or status-led use case that matches the .rich extension. Be stricter with names that may raise trademark concerns, especially terms that look tied to established brands. Short, generic, easy-to-pronounce words usually make the cleanest shortlist.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Prioritize clear one-word terms that fit the .rich meaning
+- Use the 138.71 median ask as a simple pricing anchor
+- Favor generic words over terms with trademark exposure
+- Short, memorable words tend to be easier to evaluate
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .RICH One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .RICH One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
