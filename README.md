@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .rich one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,898 domains · **Median ask:** $138.71 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/rich`  
 **Best for:** founders, investors, studios
 
@@ -72,11 +72,11 @@ print(df.head())
 | makers.rich      | available | $94.99    | $1,999        | 62             | 67     | 6      | namesilo  |
 | online.rich      | available | $149.99   | —             | 70             | 62     | 7      | name.com  |
 | Ryan.rich        | premium   | —         | —             | 60             | 44     | 4      | —         |
-| jobs.rich        | available | $149.99   | —             | 79             | 42     | 4      | name.com  |
+| whynot.rich      | available | $149.99   | —             | 74             | 44     | 7      | name.com  |
 | William.rich     | premium   | —         | —             | 74             | 31     | 7      | —         |
-| shortcuts.rich   | available | $149.99   | —             | 48             | 41     | 10     | name.com  |
+| jobs.rich        | available | $149.99   | —             | 79             | 42     | 4      | name.com  |
 | Places.rich      | premium   | —         | —             | 74             | 22     | 6      | —         |
-| whynot.rich      | available | $149.99   | —             | 74             | 39     | 7      | name.com  |
+| shortcuts.rich   | available | $149.99   | —             | 48             | 41     | 10     | name.com  |
 | HarryPotter.rich | premium   | —         | —             | 72             | 20     | 12     | —         |
 | prompts.rich     | available | $94.99    | $1,999        | 54             | 39     | 7      | namesilo  |
 | Phillip.rich     | premium   | —         | —             | 70             | 14     | 7      | —         |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .RICH One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .RICH One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
