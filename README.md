@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .rich one-word domains from
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,898 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,898 domains · **Median ask:** $138.71 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,898 domains · **Median ask:** $111.84 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
+**Last updated:** 2026-06-04  
 **Canonical page:** `https://unique.domains/domains/tld/rich`  
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| tips.rich        | available | $149.99   | —             | 80             | 26     | 4      | name.com  |
-| homes.rich       | available | $149.99   | —             | 86             | 34     | 5      | name.com  |
-| Chanel.rich      | premium   | —         | —             | 80             | 77     | 6      | —         |
-| finals.rich      | available | $94.99    | $1,999        | 80             | 7      | 6      | namesilo  |
-| playon.rich      | available | $149.99   | —             | 80             | 14     | 7      | name.com  |
-| makers.rich      | available | $94.99    | $1,999        | 62             | 67     | 6      | namesilo  |
-| online.rich      | available | $149.99   | —             | 70             | 62     | 7      | name.com  |
-| Ryan.rich        | premium   | —         | —             | 60             | 44     | 4      | —         |
-| whynot.rich      | available | $149.99   | —             | 74             | 44     | 7      | name.com  |
-| William.rich     | premium   | —         | —             | 74             | 31     | 7      | —         |
-| jobs.rich        | available | $149.99   | —             | 79             | 42     | 4      | name.com  |
-| Places.rich      | premium   | —         | —             | 74             | 22     | 6      | —         |
-| shortcuts.rich   | available | $149.99   | —             | 48             | 41     | 10     | name.com  |
-| HarryPotter.rich | premium   | —         | —             | 72             | 20     | 12     | —         |
-| prompts.rich     | available | $94.99    | $1,999        | 54             | 39     | 7      | namesilo  |
-| Phillip.rich     | premium   | —         | —             | 70             | 14     | 7      | —         |
-| justin.rich      | available | $149.99   | —             | 58             | 38     | 7      | name.com  |
-| IChing.rich      | premium   | —         | —             | 68             | 14     | 7      | —         |
-| BRAS.rich        | premium   | —         | —             | 70             | 13     | 4      | —         |
-| tickets.rich     | available | $94.99    | $1,999        | 64             | 34     | 7      | namesilo  |
+| leave.rich       | available | $94.99    | $1,999        | 96             | 13     | 5      | namesilo  |
+| that.rich        | available | $94.99    | $1,999        | 94             | 38     | 4      | namesilo  |
+| murder.rich      | available | $94.99    | $1,999        | 82             | 17     | 6      | namesilo  |
+| hanukah.rich     | available | $94.99    | $1,999        | 80             | 2      | 7      | namesilo  |
+| bareback.rich    | premium   | —         | —             | 96             | 6      | 8      | —         |
+| injury.rich      | available | $94.99    | $1,999        | 86             | 16     | 6      | namesilo  |
+| count.rich       | available | $94.99    | $1,999        | 122            | 20     | 5      | namesilo  |
+| stroke.rich      | available | $149.99   | —             | 92             | 13     | 6      | name.com  |
+| lust.rich        | available | $94.99    | $1,999        | 86             | 23     | 4      | namesilo  |
+| married.rich     | available | $94.99    | $1,999        | 90             | 10     | 7      | namesilo  |
+| blue.rich        | available | $149.99   | —             | 92             | 59     | 4      | name.com  |
+| fuck.rich        | available | $94.99    | $1,999        | 124            | 70     | 4      | namesilo  |
+| muffin.rich      | available | $94.99    | $1,999        | 86             | 17     | 6      | namesilo  |
+| woven.rich       | available | $94.99    | $1,999        | 90             | 29     | 5      | namesilo  |
+| matisse.rich     | available | $94.99    | $1,999        | 80             | 8      | 7      | namesilo  |
+| stretch.rich     | available | $149.99   | $299.99       | 100            | 25     | 7      | name.com  |
+| teamwork.rich    | available | $149.99   | —             | 82             | 20     | 8      | name.com  |
+| bringit.rich     | available | $94.99    | $1,999        | 98             | 10     | 8      | namesilo  |
+| JesusChrist.rich | available | $149.99   | —             | 112            | 24     | 12     | name.com  |
+| ones.rich        | available | $94.99    | $1,999        | 82             | 20     | 4      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .RICH One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .RICH One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
