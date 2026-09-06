@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .rich one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 21,068 domains · **Median ask:** $107.19 · **High-demand under $2,500:** 88
 
-**Last updated:** 2026-09-05
+**Last updated:** 2026-09-06
 **Canonical page:** `https://unique.domains/domains/tld/rich`
 **Best for:** founders, investors, studios
 
@@ -64,7 +64,6 @@ print(df.head())
 
 | domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
 | --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
-| feel.rich | available | $94.99    | $1,999        | high           | low    | 4      | namesilo    |
 | aid.rich  | available | $94.99    | $1,999        | medium         | low    | 3      | namesilo    |
 | real.rich | resell    | —         | —             | high           | medium | 4      | Porkbun LLC |
 | ala.rich  | available | $94.99    | $1,999        | high           | low    | 3      | namesilo    |
@@ -84,6 +83,7 @@ print(df.head())
 | hic.rich  | available | $94.99    | $1,999        | high           | low    | 3      | namesilo    |
 | inc.rich  | available | $94.99    | $1,999        | medium         | low    | 3      | namesilo    |
 | ixc.rich  | available | $149.99   | $299.99       | low            | low    | 3      | name.com    |
+| kgb.rich  | available | $94.99    | $1,999        | high           | low    | 3      | namesilo    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .RICH One-Word Domains*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .RICH One-Word Domains*. Version 2026-09-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
