@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .rich one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 25,744 domains · **Median ask:** $105.20 · **High-demand under $2,500:** 90
 
-**Last updated:** 2026-09-16
+**Last updated:** 2026-09-18
 **Canonical page:** `https://unique.domains/domains/tld/rich`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
-| feel.rich      | available | $94.99    | $1,999        | high           | low    | 4      | namesilo    |
-| clean.rich     | available | $94.99    | $1,999        | high           | low    | 5      | namesilo    |
-| action.rich    | available | $94.99    | $1,999        | high           | medium | 6      | namesilo    |
-| something.rich | available | $149.99   | —             | high           | low    | 9      | name.com    |
-| aid.rich       | available | $94.99    | $1,999        | medium         | low    | 3      | namesilo    |
-| real.rich      | resell    | —         | —             | high           | medium | 4      | Porkbun LLC |
-| ala.rich       | available | $94.99    | $1,999        | high           | low    | 3      | namesilo    |
-| ane.rich       | available | $94.99    | $1,999        | low            | low    | 3      | namesilo    |
-| axe.rich       | available | $94.99    | $1,999        | medium         | low    | 3      | namesilo    |
-| bay.rich       | available | $94.99    | $1,999        | low            | low    | 3      | namesilo    |
-| big.rich       | available | $149.99   | $299.99       | high           | medium | 3      | name.com    |
-| BJP.rich       | available | $149.99   | —             | medium         | low    | 3      | name.com    |
-| btw.rich       | available | $94.99    | $1,999        | high           | low    | 3      | namesilo    |
-| bum.rich       | available | $94.99    | $1,999        | low            | low    | 3      | namesilo    |
-| CNN.rich       | available | $94.99    | $1,999        | high           | low    | 3      | namesilo    |
-| dew.rich       | available | $94.99    | $1,999        | medium         | low    | 3      | namesilo    |
-| fee.rich       | available | $94.99    | $1,999        | high           | low    | 3      | namesilo    |
-| gal.rich       | available | $94.99    | $1,999        | medium         | low    | 3      | namesilo    |
-| ham.rich       | available | $94.99    | $1,999        | medium         | low    | 3      | namesilo    |
-| her.rich       | available | $94.99    | $1,999        | medium         | low    | 3      | namesilo    |
+| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
+| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
+| aid.rich  | available | $94.99    | $1,999        | medium         | low    | 3      | namesilo    |
+| real.rich | resell    | —         | —             | high           | medium | 4      | Porkbun LLC |
+| ala.rich  | available | $94.99    | $1,999        | high           | low    | 3      | namesilo    |
+| ane.rich  | available | $94.99    | $1,999        | low            | low    | 3      | namesilo    |
+| axe.rich  | available | $94.99    | $1,999        | medium         | low    | 3      | namesilo    |
+| bay.rich  | available | $94.99    | $1,999        | low            | low    | 3      | namesilo    |
+| big.rich  | available | $149.99   | $299.99       | high           | medium | 3      | name.com    |
+| BJP.rich  | available | $149.99   | —             | medium         | low    | 3      | name.com    |
+| btw.rich  | available | $94.99    | $1,999        | high           | low    | 3      | namesilo    |
+| bum.rich  | available | $94.99    | $1,999        | low            | low    | 3      | namesilo    |
+| CNN.rich  | available | $94.99    | $1,999        | high           | low    | 3      | namesilo    |
+| dew.rich  | available | $94.99    | $1,999        | medium         | low    | 3      | namesilo    |
+| fee.rich  | available | $94.99    | $1,999        | high           | low    | 3      | namesilo    |
+| gal.rich  | available | $94.99    | $1,999        | medium         | low    | 3      | namesilo    |
+| ham.rich  | available | $94.99    | $1,999        | medium         | low    | 3      | namesilo    |
+| her.rich  | available | $94.99    | $1,999        | medium         | low    | 3      | namesilo    |
+| hic.rich  | available | $94.99    | $1,999        | high           | low    | 3      | namesilo    |
+| inc.rich  | available | $94.99    | $1,999        | medium         | low    | 3      | namesilo    |
+| ixc.rich  | available | $149.99   | $299.99       | low            | low    | 3      | name.com    |
+| kgb.rich  | available | $94.99    | $1,999        | high           | low    | 3      | namesilo    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .RICH One-Word Domains*. Version 2026-09-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .RICH One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
