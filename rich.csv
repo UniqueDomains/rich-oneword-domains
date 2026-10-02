@@ -2,6 +2,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 79a7fef4-ead1-4b80-bd6e-73069e6897c9,capture.rich,available,94.99,1999,high,low,7,namesilo,,,24/09/2026 12:42
 5834344b-540b-4e31-9f54-b68426bae431,eileen.rich,available,94.99,1999,medium,low,6,namesilo,,,26/09/2026 03:31
 86a7e810-17d1-4fca-90c9-84926825dc72,underway.rich,available,94.99,1999,high,low,8,namesilo,,,12/09/2026 07:42
+0d12a685-cefe-49e8-ac4e-5567b1b99a0d,berea.rich,available,94.99,1999,medium,low,5,namesilo,,,01/10/2026 12:24
 c74542e9-170b-4561-87d7-bcefe9252606,stocking.rich,available,94.99,1999,high,low,8,namesilo,,,29/09/2026 14:00
 7a9b23ab-7b04-416b-88a7-830f1da0b5fa,fifa.rich,available,94.99,1999,high,medium,4,namesilo,,,30/09/2026 12:50
 463b7954-16f7-44ae-a4d6-206e1aa08123,legal.rich,available,94.99,1999,high,medium,5,namesilo,,,27/09/2026 06:58
@@ -79,6 +80,7 @@ dcd65369-187e-4476-8c68-61cfc7d93fd6,paintings.rich,available,94.99,1999,high,lo
 d58b90ae-5521-4dc0-aef2-3a756ccc933d,sacramento.rich,available,78.99,160.71,high,low,10,porkbun,,,29/09/2026 18:11
 0168e7c7-1a95-457c-8188-80e793328611,expressive.rich,available,149.99,299.99,high,low,10,name.com,,,17/08/2026 18:50
 684b19a0-1813-448e-9755-7cf28b59fb0b,unlock.rich,available,94.99,1999,high,medium,6,namesilo,,,28/09/2026 11:10
+6abceaee-8376-4d56-a564-be4d8556487d,iia.rich,available,94.99,1999,high,low,3,namesilo,,,01/10/2026 07:40
 865158bd-8c1f-4ea8-b73a-d8aeb5d1916e,topological.rich,available,94.99,1999,medium,low,11,namesilo,,,29/09/2026 23:29
 c5e95965-fd58-4a01-b5ee-3ddfae1304cb,rusted.rich,available,,,medium,low,6,,,,09/09/2026 20:17
 837d3871-324f-45cf-b897-4a5fdb9fffde,shout.rich,available,78.99,160.71,high,low,5,porkbun,,,29/09/2026 12:22
@@ -88,9 +90,11 @@ b7d9aa4a-4b81-4dc7-b6d9-495fd4d31379,zion.rich,available,79,160.72,high,low,4,dy
 024f5775-7705-45b7-824f-ab9886960541,subscription.rich,available,94.99,1999,high,low,12,namesilo,,,29/09/2026 04:41
 a1bafff2-81eb-4a8a-8231-5537a08fa01f,isometric.rich,available,94.99,1999,high,low,9,namesilo,,,22/08/2026 11:10
 a94a7538-b0c5-4ffb-8b05-ca05d304b510,iterative.rich,available,94.99,1999,high,low,9,namesilo,,,22/08/2026 11:39
+9301c3ae-28c1-4fcd-9d8c-84e2faf7504b,wallachia.rich,available,94.99,1999,medium,low,9,namesilo,,,01/10/2026 23:44
 fc41d287-0ee1-4f2f-98f7-971b016aeb9d,singaporean.rich,available,94.99,1999,high,low,11,namesilo,,,30/09/2026 11:33
 3d289b96-5c63-4834-a9b6-be0deec82751,postmortal.rich,available,94.99,1999,medium,low,10,namesilo,,,09/09/2026 00:33
 3fce6c8f-2642-42c9-a4fe-6dcab1020693,seward.rich,available,94.99,1999,high,low,6,namesilo,,,28/09/2026 03:05
+d3e26c64-72e1-4d5c-ac23-76cd746d4cc8,antoinette.rich,available,94.99,1999,high,low,10,namesilo,,,01/10/2026 08:30
 a93ea9da-0f46-48fa-93a0-6703bd5d87c9,allergies.rich,available,94.99,1999,medium,low,9,namesilo,,,30/09/2026 23:41
 2e28184b-599d-471d-a8c2-bc6e5deae8ac,lorna.rich,available,94.99,1999,medium,low,5,namesilo,,,29/09/2026 15:29
 029e50ba-1264-4d0d-b8ca-4d9a83ea0ad5,widget.rich,available,94.99,1999,high,low,6,namesilo,,,19/09/2026 21:50
@@ -105,10 +109,13 @@ afec2d5c-735c-42df-b2c1-2a33336db0a7,each.rich,available,94.99,1999,high,low,4,n
 11d665c6-862f-4434-8d3a-8052fb60a7af,hypocrisy.rich,available,94.99,1999,medium,low,9,namesilo,,,30/09/2026 17:40
 b817a03f-9f75-4979-88ad-196ca4a46c4f,prominence.rich,available,94.99,1999,high,low,10,namesilo,,,24/09/2026 11:05
 f38f390c-e788-4dc5-8ff9-b9b2d3f5f5d1,sic.rich,available,94.99,1999,high,low,3,namesilo,,,16/09/2026 01:41
+cbe1e3cf-bcab-46ce-b4ae-bbd1ba0c022f,jig.rich,available,79,160.72,high,low,3,dynadot,,,01/10/2026 19:47
 2aa6b325-95f1-4ef3-a203-ace2386bd1fb,pasco.rich,available,78.99,160.71,high,low,5,porkbun,,,30/09/2026 13:57
 e811a094-7ea1-414d-bea6-fe392015ddff,grandpas.rich,available,94.99,1999,medium,low,8,namesilo,,,21/09/2026 09:18
+e4d84af2-05a4-42c9-bb69-c3e8256d97f7,midsummer.rich,available,79,160.72,high,low,9,dynadot,,,01/10/2026 20:12
 7479697c-6797-41f2-8e14-3def7ef2397b,schonberg.rich,available,94.99,1999,medium,low,9,namesilo,,,20/09/2026 08:20
 4b554d21-6834-4146-b59f-d9c92b3edc6e,sublimely.rich,available,94.99,1999,medium,low,9,namesilo,,,16/09/2026 07:34
+107f4c4d-9bfd-433f-848b-9e3daf7645c8,haight.rich,available,94.99,1999,medium,low,6,namesilo,,,02/10/2026 04:03
 586dd2da-56c8-44d5-935c-153d6e2efaf9,unafraid.rich,available,94.99,1999,high,low,8,namesilo,,,10/09/2026 01:28
 ce910367-e4df-4f7d-a102-387ddbc294ff,begonia.rich,available,94.99,1999,medium,low,7,namesilo,,,23/09/2026 02:28
 566f2756-1ec4-439b-ab9e-68bdb1ce06dd,airplane.rich,available,94.99,1999,high,low,8,namesilo,,,27/09/2026 04:01
@@ -117,6 +124,7 @@ ce910367-e4df-4f7d-a102-387ddbc294ff,begonia.rich,available,94.99,1999,medium,lo
 d2f7038a-8143-48d6-835f-4e396a0871fa,dabbled.rich,available,149.99,299.99,medium,low,7,name.com,,,13/08/2026 15:12
 d156055b-bd1a-4166-8683-6949749b2dc1,ben.rich,available,94.99,1999,high,medium,3,namesilo,,,29/09/2026 02:04
 a7485a0b-e74a-4d1b-804b-b4416ba84c96,wrath.rich,available,78.99,160.71,medium,low,5,porkbun,,,28/09/2026 20:48
+d27cbbf6-09ce-435f-b431-aaa3716ab94a,heathrow.rich,available,94.99,1999,high,low,8,namesilo,,,01/10/2026 09:24
 53feb2a8-4f70-4d65-bb4f-50f726511eab,ejection.rich,available,79,160.72,medium,low,8,dynadot,,,01/10/2026 01:50
 df18fa8f-890e-4b75-b971-bda028bd998d,manila.rich,available,94.99,1999,high,low,6,namesilo,,,29/09/2026 07:06
 87f1ad68-20cc-430d-8bd7-d2c5fcd40079,ventured.rich,available,94.99,1999,medium,low,8,namesilo,,,29/09/2026 08:54
@@ -158,6 +166,7 @@ c1d0f648-6395-48d8-a871-7ea77187feaa,miles.rich,available,94.99,1999,high,low,5,
 03fe8773-0d6d-45e5-814d-ff9808ef47b4,vain.rich,available,94.99,1999,high,low,4,namesilo,,,22/09/2026 23:50
 d0478dce-3b24-4f98-9cc3-c4f4ac579f3c,currish.rich,available,94.99,1999,low,low,7,namesilo,,,13/08/2026 11:31
 dcf726f6-d5bf-4672-81b7-bd38d3faf897,waved.rich,available,94.99,1999,high,low,5,namesilo,,,30/09/2026 03:45
+80404c6f-4070-4c4c-9614-a5adaa4fb2c1,tiananmen.rich,available,94.99,1999,medium,low,9,namesilo,,,01/10/2026 12:23
 baaebd5b-860f-415e-b4dd-75cf7647f642,taunting.rich,available,94.99,1999,medium,low,8,namesilo,,,14/08/2026 02:54
 f184f930-e4ab-4196-b55d-bac5b7dbdf80,mate.rich,available,94.99,1999,high,low,4,namesilo,,,23/09/2026 11:43
 9977f2cb-7ef5-4d85-a00c-c7e7af2c8d50,bennett.rich,available,94.99,1999,high,low,7,namesilo,,,23/09/2026 08:31
@@ -189,6 +198,7 @@ ce29bbb1-1669-4cf5-a95e-5a45a22ade2f,frore.rich,available,94.99,1999,low,low,5,n
 a6aff21f-8468-4c2f-853e-b06fed7ee91e,rid.rich,available,79,160.72,high,low,3,dynadot,,,30/09/2026 18:36
 458b63b4-ce87-405d-8cc1-7f916654519a,ward.rich,available,94.99,1999,high,low,4,namesilo,,,16/09/2026 13:33
 2c190692-13ca-482f-90d7-d023036c302d,snaky.rich,available,94.99,1999,medium,low,5,namesilo,,,10/09/2026 04:47
+20f5faa5-9e4f-404f-8c8f-58a055ba56a6,dundee.rich,available,94.99,1999,medium,low,6,namesilo,,,01/10/2026 08:10
 242e5dee-0a27-4eb9-ac2b-60055823144b,contrabass.rich,available,94.99,1999,medium,low,10,namesilo,,,12/08/2026 23:28
 e39664da-c250-41a2-9422-7c3f1ad22397,destroyer.rich,available,94.99,1999,high,low,9,namesilo,,,28/09/2026 05:31
 90876c6c-a1e1-45ab-8158-0c96d612dc24,sulphur.rich,available,94.99,1999,medium,low,7,namesilo,,,20/09/2026 22:29
@@ -214,6 +224,7 @@ c173aafe-de18-40f6-9844-01e4965e0f0c,kolkata.rich,available,149.99,3499.99,mediu
 e1f9991f-81b4-422b-92ec-0ebb4b6f284c,monitoring.rich,available,94.99,1999,high,low,10,namesilo,,,30/09/2026 05:07
 ff8882cd-f890-4ed3-8067-6ee48efae8d1,ncc.rich,available,79,160.72,high,low,3,dynadot,,,30/09/2026 06:29
 08329a70-129c-4fd8-9ac0-038fc45a6242,mediate.rich,available,94.99,1999,high,low,7,namesilo,,,21/08/2026 23:37
+4734db03-0553-469b-a651-bbbb662baf8e,mansions.rich,available,94.99,1999,medium,low,8,namesilo,,,01/10/2026 17:28
 fd18d851-753e-4744-af3b-f6e1ed59beb6,avifauna.rich,available,94.99,1999,medium,low,8,namesilo,,,21/09/2026 09:31
 74c3b11a-38c2-481a-9175-ea074d471bc9,housekeeping.rich,available,94.99,1999,high,low,12,namesilo,,,29/09/2026 10:23
 808e4d39-a829-493c-a7c0-2020b2213eaf,mired.rich,available,94.99,1999,medium,low,5,namesilo,,,25/08/2026 01:04
@@ -253,6 +264,7 @@ a96e4527-0d9c-49e6-801b-9f491357b83b,lividity.rich,available,94.99,1999,medium,l
 ec37bdc7-9e6d-403a-80bc-56ea563ef021,measures.rich,available,79,160.72,low,low,8,dynadot,,,28/09/2026 08:34
 815aa4c4-553b-4636-90ea-c283d06c3d04,fingers.rich,available,94.99,1999,medium,low,7,namesilo,,,
 72d32a4a-817d-4f1f-8469-d370b40a96fb,scranton.rich,available,94.99,1999,medium,low,8,namesilo,,,26/09/2026 00:14
+f0c9fb79-8c67-4938-8bfb-e3ab3a7a8ce3,multinational.rich,available,94.99,1999,medium,low,13,namesilo,,,01/10/2026 05:37
 c7e7b100-273f-43f1-844e-3a5113265bf4,steaming.rich,available,94.99,1999,medium,low,8,namesilo,,,10/09/2026 19:42
 225038de-1c48-447f-a21e-080cc7f33274,hegel.rich,available,79,160.72,medium,low,5,dynadot,,,28/09/2026 14:17
 b59d7492-fbed-4d2f-a438-c19fa428a0e8,considering.rich,available,94.99,1999,medium,low,11,namesilo,,,26/09/2026 03:06
@@ -260,6 +272,7 @@ f5ead8ee-b365-4f3f-a1a7-8fbaea047246,percussive.rich,available,94.99,1999,high,l
 aac63503-52ad-4e82-94cc-8483cf51d0b0,chairwoman.rich,available,94.99,1999,high,low,10,namesilo,,,29/09/2026 07:58
 5fcff726-6eae-41b5-a0e2-c7ee1aeef705,cleaners.rich,available,94.99,1999,high,low,8,namesilo,,,24/09/2026 15:26
 09f3e44a-8da5-422a-a73d-bb948efa9cea,picky.rich,available,94.99,1999,high,low,5,namesilo,,,18/08/2026 05:00
+5c0b1a9a-72e5-49b4-8385-b82b3d27b8c8,abbreviation.rich,available,94.99,1999,medium,low,12,namesilo,,,01/10/2026 12:48
 ab15c2cd-02cd-4916-8338-d84ffed1f755,poignant.rich,available,94.99,1999,high,low,8,namesilo,,,
 87ce43cf-896e-4f8e-bd36-5f0ef46b1f30,gracie.rich,available,94.99,1999,high,low,6,namesilo,,,18/09/2026 10:48
 a228fcd7-dab3-481a-b727-4535d6d215d0,planck.rich,available,94.99,1999,high,low,6,namesilo,,,28/09/2026 02:23
@@ -273,12 +286,15 @@ b67fb967-19fd-4cda-b002-679409c8a476,acherontic.rich,available,94.99,1999,medium
 554d2c5e-98f7-4238-8ccd-50faf4bad399,maui.rich,available,94.99,1999,high,low,4,namesilo,,,28/09/2026 02:23
 086d9997-f69c-411e-84cd-ceaa6799ea33,immorality.rich,available,94.99,1999,medium,low,10,namesilo,,,17/08/2026 15:04
 5f75ad59-0d89-44a9-b086-af87e57ca28b,lads.rich,available,79,160.72,medium,low,4,dynadot,,,29/09/2026 11:04
+46678a23-5887-4adf-97af-13b31e7258cc,bnp.rich,available,79,160.72,high,low,3,dynadot,,,01/10/2026 04:46
 a748a110-8109-46a2-aead-848d61b16bdd,blazing.rich,available,94.99,1999,high,low,7,namesilo,,,10/08/2026 13:33
+3fb7713f-f2dd-4a51-b2ec-38b69d83b972,rationing.rich,available,79,160.72,medium,low,9,dynadot,,,01/10/2026 21:27
 491c3d37-ef89-409a-895b-19a3ffafa945,purple.rich,available,94.99,1999,high,medium,6,namesilo,,,24/09/2026 13:58
 694f22d3-b979-4d8f-80ed-29a302c5dcf8,absorbed.rich,available,94.99,1999,high,low,8,namesilo,,,21/09/2026 14:58
 0d294aa9-4b33-4e25-8992-f0f96f5e4290,crustacean.rich,available,94.99,1999,high,low,10,namesilo,,,13/08/2026 09:19
 d8d91179-d2b0-4548-b807-05c9220fd3d8,anorgasmia.rich,available,94.99,1999,medium,low,10,namesilo,,,19/09/2026 11:47
 5278c3fb-b461-415f-879c-fec1272829e1,rubinstein.rich,available,94.99,1999,medium,low,10,namesilo,,,19/09/2026 15:30
+3efb967b-953e-49cc-935e-a6073494b622,uninterrupted.rich,available,79,160.72,medium,low,13,dynadot,,,01/10/2026 06:00
 b22d89a7-c8b5-45e4-89ff-a1500091b829,kissinger.rich,available,94.99,1999,medium,low,9,namesilo,,,28/09/2026 10:01
 64bcf7fc-4b49-4e0e-94a0-64fbbc09ed21,afrikaans.rich,available,94.99,1999,medium,low,9,namesilo,,,
 dfbbea5e-af68-45b6-a7a0-e0b9941861a3,phillip.rich,available,94.99,1999,high,low,7,namesilo,,,17/09/2026 13:24
@@ -288,12 +304,15 @@ cda1e1ab-98f5-4775-b1cf-33b5d97b0963,appaloosa.rich,available,,,medium,low,9,,,,
 63e49c89-fde9-49af-af83-c30a7109c097,bounced.rich,available,94.99,1999,medium,low,7,namesilo,,,29/09/2026 17:31
 c6a695b3-b760-48ec-949d-a4b0d0cc06f6,slimy.rich,available,94.99,1999,medium,low,5,namesilo,,,14/08/2026 04:03
 b57d26ad-4f89-43a5-8d50-fec06d6c6987,bobtail.rich,available,94.99,1999,high,low,7,namesilo,,,10/08/2026 16:39
+6798a76f-b456-4e9b-8498-a9856696aad1,pulses.rich,available,79,160.72,high,low,6,dynadot,,,01/10/2026 17:55
 ab919da8-e899-4950-980d-7a1a36665552,beware.rich,available,78.99,160.71,medium,low,6,porkbun,,,28/09/2026 20:49
 6652646f-c2f2-4761-b594-f34341522602,date.rich,resell,149.99,,high,low,4,name.com,,,29/09/2026 13:13
 2dfeb9bd-385f-4dbe-9492-96ba1c61b1e5,juvenile.rich,available,94.99,1999,high,low,8,namesilo,,,22/08/2026 14:58
 c23cc839-8250-4bba-8d48-5232e429a07f,courses.rich,available,94.99,1999,high,low,7,namesilo,,,
 ff6e3930-7472-4b11-96a2-1e22e33f2643,dawkins.rich,available,94.99,1999,medium,low,7,namesilo,,,29/09/2026 15:39
+2b4fada3-4c72-49ef-9d5a-4e05a610793a,physique.rich,available,79,160.72,high,low,8,dynadot,,,01/10/2026 18:42
 fe7b6929-4f72-4998-b427-ab7fea73c150,unemployed.rich,available,94.99,1999,medium,low,10,namesilo,,,28/09/2026 09:51
+db6d4c7f-ed57-49dc-9e73-815c62e7907d,bookkeeper.rich,available,94.99,1999,high,low,10,namesilo,,,02/10/2026 04:08
 7a532359-a4f2-4438-89a7-d5367cf6e683,metrical.rich,available,94.99,1999,medium,low,8,namesilo,,,24/08/2026 22:08
 69483d3f-a6c3-47c8-8beb-4244775723c6,pallor.rich,available,94.99,1999,medium,low,6,namesilo,,,17/09/2026 01:07
 618481ed-ff8a-4b0c-80bc-d74d998ab52d,plateau.rich,available,79,160.72,high,low,7,dynadot,,,30/09/2026 18:21
@@ -313,11 +332,13 @@ f6118f84-9cbc-4176-979a-34de729a9925,creatively.rich,available,94.99,1999,medium
 b1b1631e-7713-4d78-9d9d-d7f415e8e7e1,goosebumps.rich,available,94.99,1999,medium,low,10,namesilo,,,19/09/2026 00:04
 cfb10ed4-b214-42f9-9d2a-107909ce9e6d,hugging.rich,available,94.99,1999,high,low,7,namesilo,,,24/09/2026 12:55
 34f53233-b3f0-42d4-ad2d-5eb66caa9406,babyish.rich,available,94.99,1999,medium,low,7,namesilo,,,08/08/2026 03:53
+d749c6ee-488a-4899-95b8-d929ac801d27,commencement.rich,available,94.99,1999,high,low,12,namesilo,,,02/10/2026 01:17
 17378236-6096-4edd-a9d9-8e709077a673,canty.rich,available,94.99,1999,medium,low,5,namesilo,,,11/08/2026 17:46
 7bc7ddb0-21f1-4ba1-8759-01ae163a1fce,clues.rich,available,78.99,160.71,medium,low,5,porkbun,,,28/09/2026 05:05
 bd6b383f-43cb-4ede-bb26-b41282767483,animation.rich,available,94.99,1999,high,low,9,namesilo,,,18/09/2026 08:09
 9b756e6c-43f5-4144-8295-8e11fa297069,allegro.rich,available,94.99,1999,high,low,7,namesilo,,,22/09/2026 01:21
 c3abe8cc-b71c-4c19-89e4-855b3b677809,cot.rich,available,78.99,160.71,high,low,3,porkbun,,,29/09/2026 06:09
+e333c400-2e52-4691-bc86-ff8df9dbe49d,roulette.rich,available,78.99,160.71,high,low,8,porkbun,,,01/10/2026 20:21
 3041216d-625b-4e1c-9728-5c455096d3f1,css.rich,available,94.99,1999,high,medium,3,namesilo,,,28/09/2026 11:47
 7b11a361-59ad-46f8-9e5b-9c5d03bdd81d,annoyed.rich,available,94.99,1999,medium,low,7,namesilo,,,22/09/2026 05:18
 00c34a93-ad5f-45ec-bd63-7f1dadbfd180,dawdler.rich,available,149.99,299.99,medium,low,7,name.com,,,22/08/2026 18:40
@@ -364,6 +385,7 @@ ea0fb7fc-0a83-4cd0-9aa0-517f0bf7937e,jake.rich,available,94.99,1999,high,medium,
 060dbf80-4cc7-4dca-83ba-ef4b3ea63f06,wordplay.rich,available,94.99,1999,high,low,9,namesilo,,,
 f25b34c7-6a2b-4b7c-8e73-1247a1fad05e,unsugared.rich,available,94.99,1999,low,low,9,namesilo,,,12/09/2026 20:48
 8543e9be-12aa-4c64-9243-d14c9f3b73fe,duane.rich,available,79,160.72,medium,low,5,dynadot,,,27/09/2026 19:56
+424e46f6-8842-4e20-b42e-2c257bd4e9f2,nathalie.rich,available,94.99,1999,medium,low,8,namesilo,,,02/10/2026 00:05
 17edc83d-2e50-477c-b69c-b1048064cab8,dryer.rich,available,78.99,160.71,medium,low,5,porkbun,,,29/09/2026 18:42
 f8dd71b6-d44f-4fe8-b08f-2dc7739270a9,encourage.rich,available,78.99,160.71,high,low,9,porkbun,,,30/09/2026 19:02
 30bdd0f4-941e-44a5-8c35-4f93b93dda79,clef.rich,available,94.99,1999,high,low,4,namesilo,,,24/09/2026 15:30
@@ -372,8 +394,9 @@ c7d21f63-2e4d-43f0-b975-7b362ff87699,recognized.rich,available,94.99,1999,high,l
 aac828c9-b2ad-4ce8-829d-36bf0f161fd1,emblazon.rich,available,94.99,1999,high,low,8,namesilo,,,24/09/2026 05:09
 230bfe18-36bd-4f0c-b09a-59903a68991e,foe.rich,available,79,160.72,medium,low,3,dynadot,,,29/09/2026 18:55
 ce24fe71-284f-40c3-9927-f5948a0980ce,petra.rich,available,94.99,1999,high,low,5,namesilo,,,28/09/2026 11:54
+815a580c-e38e-4026-8775-e24e67bebadf,cassell.rich,available,78.99,160.71,high,low,7,porkbun,,,02/10/2026 00:55
 2a20a51b-a80c-47d1-8c70-ee6e93550124,deteriorating.rich,available,78.99,160.71,medium,low,13,porkbun,,,29/09/2026 20:55
-4d96ab45-3bef-4f7e-8b34-842ebfad4992,secondhand.rich,available,94.99,1999,high,low,10,namesilo,,,10/09/2026 01:09
+4d96ab45-3bef-4f7e-8b34-842ebfad4992,secondhand.rich,available,94.99,1999,medium,low,10,namesilo,,,02/10/2026 01:16
 a3e46565-76f7-489c-a5b4-a4043f2fb024,sore.rich,available,94.99,1999,high,low,4,namesilo,,,
 44d9c235-951b-4b7d-8ba3-9e5ce4b855a4,ripon.rich,available,94.99,1999,high,low,5,namesilo,,,29/09/2026 16:21
 012e5064-159e-4458-a3a5-1745f1bf1099,romish.rich,available,94.99,1999,medium,low,6,namesilo,,,05/09/2026 01:30
@@ -392,6 +415,7 @@ fc3b967a-4d36-4f6f-8c5e-ec9bbfd05502,buckshot.rich,available,,,high,low,8,,,,23/
 d018fd87-1392-4801-ba2f-2349384912cd,countable.rich,available,94.99,1999,high,low,9,namesilo,,,13/08/2026 03:28
 8947df52-a17b-4bd7-9234-727779bf40c8,cavite.rich,available,78.99,160.71,medium,low,6,porkbun,,,30/09/2026 22:11
 52f51c7b-1bc4-4bc5-a19a-ca0de2534645,bph.rich,available,94.99,1999,high,low,3,namesilo,,,23/09/2026 08:07
+423fcc85-5e53-4f48-9b6c-27354b9f140a,moma.rich,available,94.99,1999,high,low,4,namesilo,,,01/10/2026 23:50
 b528d37f-ae04-4066-9a37-7d0c1b84b74f,osa.rich,available,79,160.72,high,low,3,dynadot,,,30/09/2026 20:30
 753b5a33-df26-4d08-abe7-be1ea0d48504,backseat.rich,available,149.99,299.99,high,low,8,name.com,,,21/09/2026 15:49
 dc97f257-cc40-4672-a151-a7042eace9bd,thug.rich,available,94.99,1999,medium,low,4,namesilo,,,27/09/2026 08:15
@@ -412,9 +436,9 @@ e37afbc9-5857-482c-89f0-dfcd17145395,walk.rich,available,94.99,1999,high,low,4,n
 e8ef04bb-5b9a-4066-bc3b-80e2a2a58e18,humpback.rich,available,94.99,1999,medium,low,8,namesilo,,,13/08/2026 07:47
 539f61af-f744-4e06-a2ce-84b7af3a4171,crabwise.rich,available,94.99,1999,medium,low,8,namesilo,,,13/08/2026 04:14
 a9b825f6-f6bd-403b-987f-10bc16455391,gravitational.rich,available,94.99,1999,medium,low,13,namesilo,,,29/09/2026 10:18
-fe571eb7-1107-4749-a13d-f326881f649a,saddening.rich,available,94.99,1999,medium,low,9,namesilo,,,
 b6368584-573a-427a-965f-5f50e0ea6b7c,morality.rich,available,94.99,1999,medium,low,8,namesilo,,,28/09/2026 09:42
 09b6c969-1ae0-496a-9019-e7c39e862379,hou.rich,available,94.99,1999,high,low,3,namesilo,,,29/09/2026 10:03
+9a53dc0e-b8c2-4df1-a009-9aef58751728,hmm.rich,available,94.99,1999,high,low,3,namesilo,,,01/10/2026 04:54
 ba502150-121b-4f78-9056-aeec55527dae,inappropriate.rich,available,94.99,1999,medium,low,13,namesilo,,,27/09/2026 16:59
 13018cda-12a5-41e8-bf93-574251cc2e6a,qualified.rich,available,94.99,1999,high,low,9,namesilo,,,14/08/2026 02:10
 cc6c4b2e-e169-4a2c-9828-a042c8689b0a,treatments.rich,available,79,160.72,medium,low,10,dynadot,,,29/09/2026 04:46
@@ -460,7 +484,7 @@ f380b838-e12a-4431-86b2-bfff686cc80c,zest.rich,available,79,160.72,high,low,4,dy
 4fef1a91-854a-4fe7-b6c3-4e8aa865396f,providing.rich,available,94.99,1999,high,low,9,namesilo,,,28/09/2026 07:19
 c996878e-7caa-4a7e-82dd-5a8dccbe0a1c,bao.rich,available,79,160.72,medium,low,3,dynadot,,,28/09/2026 21:38
 f44df49b-d0f4-40b4-9d61-95127319da06,bishopric.rich,available,94.99,1999,medium,low,9,namesilo,,,23/09/2026 21:59
-86447b5d-58a7-4b82-9a04-eddeff6cb399,genes.rich,available,94.99,1999,medium,low,5,namesilo,,,28/09/2026 07:05
+86447b5d-58a7-4b82-9a04-eddeff6cb399,genes.rich,available,94.99,1999,medium,low,5,namesilo,,,01/10/2026 17:20
 8b66ab53-d395-4083-9be1-58d3a4b15765,shaker.rich,available,94.99,1999,high,low,6,namesilo,,,29/09/2026 13:29
 c6c0f7e5-d1bf-4e6d-9b90-fd4e242b9814,broadside.rich,available,94.99,1999,high,low,9,namesilo,,,11/08/2026 05:04
 ef66df11-3f1e-4d0f-ad2a-5a1c366d5f25,chaotic.rich,available,94.99,1999,high,low,7,namesilo,,,12/08/2026 02:11
@@ -473,7 +497,7 @@ f8c62c63-c7d4-4fd2-8a02-a7b48afbca7b,fawning.rich,available,94.99,1999,medium,lo
 76eca711-c925-45a5-bf6f-0163d892ec55,equity.rich,available,94.99,1999,high,low,6,namesilo,,,30/09/2026 01:33
 5f44e6ee-7baf-4d5d-9952-1e383ea33afc,executor.rich,available,78.99,160.71,high,low,8,porkbun,,,01/10/2026 01:58
 5b5bd685-95f9-4eb1-b5e0-27a5d38e9446,fortunate.rich,available,94.99,1999,high,low,9,namesilo,,,18/08/2026 12:47
-88a80773-d00f-431a-9f3b-c7c27f3b0610,misses.rich,available,94.99,1999,high,low,6,namesilo,,,
+88a80773-d00f-431a-9f3b-c7c27f3b0610,misses.rich,available,94.99,1999,high,low,6,namesilo,,,01/10/2026 11:41
 07f587fb-7543-48ef-8622-b2b6ddb272b5,permian.rich,available,94.99,1999,high,low,7,namesilo,,,27/09/2026 15:11
 fc38b9b3-6837-4a09-a042-9a115e613eb5,predicted.rich,available,94.99,1999,medium,low,9,namesilo,,,28/09/2026 23:02
 013f0b97-e9e1-4707-8d73-8263c51e8a34,wedding.rich,available,78.99,160.71,high,low,7,porkbun,,,29/09/2026 23:26
@@ -490,6 +514,7 @@ eb48255d-84e0-45af-b991-d9ced1485746,dorchester.rich,available,94.99,1999,medium
 c56e116f-138d-46bc-a9dc-0bcffd2de4a7,smashing.rich,available,94.99,1999,high,low,8,namesilo,,,08/08/2026 12:53
 445a0038-6cd2-4774-85d3-90397b038e9b,informing.rich,available,94.99,1999,high,low,9,namesilo,,,30/09/2026 00:09
 ca225c4f-68ba-4eaf-b43c-2e25d484ad55,diaz.rich,available,94.99,1999,high,low,4,namesilo,,,22/09/2026 09:18
+c83110f0-2e3c-4d0a-8aca-9f32598d0e6c,caravaggio.rich,available,94.99,1999,medium,low,10,namesilo,,,02/10/2026 04:16
 acbc1aef-69f3-4ae6-aed2-3be80dceef75,reluctance.rich,available,94.99,1999,medium,low,10,namesilo,,,30/09/2026 10:58
 d800992e-5d66-49cd-95cd-0da5a180f6b3,adapter.rich,available,94.99,1999,high,low,7,namesilo,,,17/09/2026 06:30
 91362220-3649-40a2-b58d-b1096a2ecd2b,shelters.rich,available,94.99,1999,high,low,8,namesilo,,,20/09/2026 23:17
@@ -513,6 +538,7 @@ bc9e3a21-2ae1-4de8-a48c-3da06ffd74c8,bit.rich,available,79,160.72,high,medium,3,
 b04dfaaa-89f1-4c30-ac19-c1c124a6c111,lbs.rich,available,79,160.72,medium,low,3,dynadot,,,30/09/2026 07:36
 a5d954b5-52b0-43e7-a374-0d3ef3e39c2c,nagano.rich,available,79,160.72,medium,low,6,dynadot,,,30/09/2026 18:06
 77e75b0a-d916-48f8-be4c-f9b41f0fe78c,autogiro.rich,available,94.99,1999,medium,low,8,namesilo,,,21/09/2026 06:22
+4279a330-ab3d-4b68-82af-1ef22c51859f,cpm.rich,available,94.99,1999,high,low,3,namesilo,,,01/10/2026 05:17
 45b5cced-8187-4b84-bd01-a1cdf1b5f037,hedonic.rich,available,94.99,1999,medium,low,7,namesilo,,,21/08/2026 05:52
 fd9552e1-29ae-4873-bb30-b51daf88f1a0,criticise.rich,available,78.99,160.71,high,low,9,porkbun,,,30/09/2026 18:08
 d521aa31-613a-495d-9c2a-fcbc46d4a9cf,knot.rich,available,79,160.72,high,low,4,dynadot,,,28/09/2026 19:37
@@ -523,6 +549,7 @@ f42bb0af-5e33-4864-8834-dacc39b3d483,abjuration.rich,available,94.99,1999,medium
 8a99e2e6-2cbe-4fc4-89f2-509c9eed0d7e,puku.rich,available,94.99,1999,medium,low,4,namesilo,,,17/09/2026 07:35
 a4dd7e60-33a9-435d-b186-d0682389b49c,interviewing.rich,available,94.99,1999,medium,low,12,namesilo,,,29/09/2026 11:14
 ed5ced05-7505-4bb3-b932-f72c184a2d61,vocalic.rich,available,94.99,1999,medium,low,7,namesilo,,,13/09/2026 06:26
+3a808327-f45e-42e0-ac80-3ab3be3bf0de,deteriorate.rich,available,79,160.72,medium,low,11,dynadot,,,01/10/2026 22:25
 29d5360c-4d34-4ced-977f-14fc77012538,dilate.rich,available,94.99,1999,medium,low,6,namesilo,,,16/08/2026 00:39
 d006c14b-1d9b-4728-8f5f-4459c383426a,powdered.rich,available,94.99,1999,medium,low,8,namesilo,,,19/09/2026 15:51
 05a18228-8c37-482e-922b-0fe4d91c4a50,heiress.rich,available,94.99,1999,high,low,7,namesilo,,,01/10/2026 02:28
@@ -537,7 +564,7 @@ db6a64cc-5ee6-4258-a839-549b29646ec6,crucifix.rich,available,94.99,1999,high,low
 3c9c7273-1fa8-4da1-ba53-82abb7cd2114,alchemist.rich,available,94.99,1999,high,low,9,namesilo,,,18/09/2026 03:58
 7ffa4893-6591-4546-abc6-b13cfc9b6ea4,caring.rich,available,94.99,1999,high,low,6,namesilo,,,23/09/2026 13:03
 24213c59-c00f-4c96-b173-dc102a0a4896,foolproof.rich,available,94.99,1999,high,low,9,namesilo,,,18/08/2026 10:37
-d4cfe712-3a0e-4ca2-82f9-a2d219c71bbb,beauty.rich,available,94.99,1999,high,low,6,namesilo,,,29/09/2026 14:17
+d4cfe712-3a0e-4ca2-82f9-a2d219c71bbb,beauty.rich,available,79,160.72,high,medium,6,dynadot,,,02/10/2026 00:15
 04a01efe-d811-4758-bc9e-2e42f842981d,meridional.rich,available,149.99,299.99,medium,low,10,name.com,,,24/08/2026 20:52
 61e9b4a3-f22e-4570-b2a5-6e97ac98539a,fell.rich,available,94.99,1999,medium,low,4,namesilo,,,08/08/2026 15:49
 f770f685-be27-47c7-99db-4a44b42489d1,velar.rich,available,94.99,1999,medium,low,5,namesilo,,,13/09/2026 01:59
@@ -547,14 +574,15 @@ ee79d2df-6ecd-4361-b452-46c4e1657e45,dartmouth.rich,available,94.99,1999,medium,
 dd58f7ed-968c-494b-9d33-11098edc4e16,atticus.rich,available,94.99,1999,high,low,7,namesilo,,,21/09/2026 01:46
 d8b7e3b6-e7fa-40a0-84db-fe7a82c2e073,dar.rich,available,78.99,160.71,high,low,3,porkbun,,,29/09/2026 20:47
 2bce29e7-ed67-4505-a8b2-08a69b18f43f,estelle.rich,available,94.99,1999,medium,low,7,namesilo,,,29/09/2026 03:59
-9ba8c850-ce7c-4f29-98fa-9483f7ed7c61,annotated.rich,available,94.99,1999,high,low,9,namesilo,,,
+9ba8c850-ce7c-4f29-98fa-9483f7ed7c61,annotated.rich,available,94.99,1999,high,low,9,namesilo,,,02/10/2026 01:13
+e6defea2-4432-490a-9b4f-37d173705d9f,fainting.rich,available,94.99,1999,medium,low,8,namesilo,,,01/10/2026 22:58
 d4dd56cb-db28-4e19-b1f7-6257883e054e,undogmatic.rich,available,94.99,1999,medium,low,10,namesilo,,,18/08/2026 14:50
 6fc38449-6381-4487-936e-28a8b036c916,dentist.rich,available,94.99,1999,high,low,7,namesilo,,,29/09/2026 13:59
 b38af201-70f0-41d9-af69-90914cedda54,prompter.rich,available,94.99,1999,high,low,8,namesilo,,,21/09/2026 06:13
+4e38b0a0-5c1f-4511-a222-04ecbe5ad084,poked.rich,available,79,160.72,medium,low,5,dynadot,,,02/10/2026 03:52
 9ecc3eeb-dc94-4ec4-a9ae-23598785e542,conduction.rich,available,94.99,1999,high,low,10,namesilo,,,29/09/2026 10:47
 f3e5d1a3-dbbf-40f7-a1e2-fa2f8fc2445b,meditative.rich,available,94.99,1999,high,low,10,namesilo,,,11/08/2026 05:56
 10357dbb-4fcc-430a-be71-ab4155376c8d,arrhenius.rich,available,94.99,1999,high,low,9,namesilo,,,20/09/2026 09:11
-f6341e76-61a3-4607-881a-c2b70d1a5c5e,recognizable.rich,available,94.99,1999,high,low,12,namesilo,,,
 503ea68d-ebd2-41d3-ab99-9c1097412abe,sugars.rich,available,94.99,1999,medium,low,6,namesilo,,,18/09/2026 08:14
 975644e0-3c13-441f-a7fb-62501ebd96fc,harassed.rich,available,94.99,1999,medium,low,8,namesilo,,,21/08/2026 00:06
 ac02a596-0e3c-4b87-88b4-d9dc26ae9f35,attendant.rich,available,94.99,1999,high,low,9,namesilo,,,21/09/2026 15:40
@@ -571,6 +599,7 @@ a2a94bef-945f-4817-83cf-27d080c17476,loon.rich,available,94.99,1999,high,low,4,n
 4ccc3293-abf0-440b-bd04-3f31a14fdf3d,resounding.rich,available,94.99,1999,high,low,10,namesilo,,,27/09/2026 12:35
 c8e90067-a0de-40b7-8061-a2dc2b78d04d,drastic.rich,available,149.99,299.99,high,low,7,name.com,,,14/08/2026 18:27
 8b218458-3fe9-450f-b9b7-f97de393397a,tournament.rich,available,94.99,1999,high,low,10,namesilo,,,27/09/2026 05:49
+892ae208-76ae-44f3-9b66-aadfd12f0dbe,flowed.rich,available,94.99,1999,medium,low,6,namesilo,,,02/10/2026 02:35
 235a072e-aefd-4c71-908f-d0da667c201e,skeletons.rich,available,94.99,1999,medium,low,9,namesilo,,,30/09/2026 06:36
 4d55f615-e2ac-4f0c-95ae-12189225d942,hearn.rich,available,94.99,1999,high,low,5,namesilo,,,29/09/2026 15:40
 d6ead505-81be-49ce-af0a-6484c057780c,bernard.rich,available,94.99,1999,high,low,7,namesilo,,,23/09/2026 09:46
@@ -588,6 +617,7 @@ d77810fe-e244-42a6-9aac-855de3163b65,springbok.rich,available,94.99,1999,medium,
 0eef3426-cbc6-43cd-a76c-9111f9f35350,graded.rich,available,149.99,299.99,high,low,6,name.com,,,20/08/2026 17:36
 27e354e3-5da2-41ce-84c9-5cd61c559a30,aid.rich,available,79,160.72,high,low,3,dynadot,,,28/09/2026 02:16
 fc4f1553-5300-4edd-8cb8-a0f27781cf5e,bradford.rich,available,149.99,299.99,high,low,8,name.com,,,25/09/2026 02:02
+fa442041-273f-412e-99da-e21bca5d44a9,vacate.rich,available,78.99,160.71,medium,low,6,porkbun,,,01/10/2026 19:06
 540e6f54-1379-404f-8a95-7220f5d966e1,pursuit.rich,available,94.99,1999,high,low,7,namesilo,,,21/09/2026 09:41
 93ea0930-2daa-4d35-83ae-059d0e148c0d,unshapen.rich,available,94.99,1999,medium,low,8,namesilo,,,12/09/2026 19:33
 4af8ef26-e37f-4cbd-9a74-ab69726c97c9,jonas.rich,available,94.99,1999,high,low,5,namesilo,,,25/09/2026 15:07
@@ -607,7 +637,7 @@ fd0ada37-eed3-44f0-a6b9-b4396b335a10,ent.rich,available,78.99,160.71,high,low,3,
 146b0454-fbad-4cbc-aaa5-64a14537eeb4,scalene.rich,available,94.99,1999,medium,low,7,namesilo,,,09/09/2026 22:25
 fd0bb193-4cbe-4369-86e4-808d922e26cb,camper.rich,available,94.99,1999,high,high,6,namesilo,,,29/09/2026 06:19
 ea34cd17-d561-4f6d-a635-2cee45a7c61d,heroin.rich,available,94.99,1999,medium,low,6,namesilo,,,24/09/2026 22:03
-59cbacc0-6adb-4df1-b694-4a6f30f02397,pinging.rich,available,94.99,1999,medium,low,7,namesilo,,,
+59cbacc0-6adb-4df1-b694-4a6f30f02397,pinging.rich,available,94.99,1999,medium,low,7,namesilo,,,02/10/2026 02:36
 ff9b1e38-802f-4afd-990e-7e7be5e59fc8,pelvis.rich,available,79,160.72,high,low,6,dynadot,,,29/09/2026 19:56
 73ac65b0-be2e-4e70-9c16-449b497b3272,jinx.rich,available,94.99,1999,high,low,4,namesilo,,,21/08/2026 07:37
 dacb4986-444a-4fbb-b12c-6a6148b2e978,unshaped.rich,available,94.99,1999,medium,low,8,namesilo,,,12/09/2026 19:31
@@ -637,6 +667,7 @@ b17c85ad-3ff8-40b5-88c4-113adf4a32c1,venture.rich,available,79,160.72,high,mediu
 73c5d833-5487-492e-8310-d2b7f3f83755,shoebill.rich,available,,,medium,low,8,,,,21/09/2026 20:35
 c8601366-882d-494a-b20e-ef68f88d7952,dyadic.rich,available,94.99,1999,medium,low,6,namesilo,,,14/08/2026 21:52
 42afa4cd-2deb-4093-9274-4669298736d1,consoling.rich,available,94.99,1999,high,low,9,namesilo,,,12/08/2026 22:42
+964f99c8-a44e-4b3b-bbd2-7c61d29f01a0,thunderbolt.rich,available,94.99,1999,high,low,11,namesilo,,,01/10/2026 05:34
 9436fc62-f2c1-4a8d-b343-7121e73c27c5,loosely.rich,available,94.99,1999,medium,low,7,namesilo,,,28/09/2026 13:33
 c3c66cc9-f547-47d8-9a5d-b7e62cfc7535,disclaimer.rich,available,94.99,1999,high,low,10,namesilo,,,24/09/2026 22:28
 28678f87-635f-4b2f-b9ef-7550c437c2e6,kettering.rich,available,79,160.72,medium,low,9,dynadot,,,29/09/2026 06:20
@@ -777,6 +808,7 @@ c2209c1f-7676-49c4-878e-06db31c6b3f5,pack.rich,available,94.99,1999,high,low,4,n
 b235a46a-1138-4b5b-9943-60c87cd5debb,scienter.rich,available,94.99,1999,medium,low,8,namesilo,,,16/09/2026 00:44
 9b236000-b153-469b-b0d0-cfa5e95dddbb,inhibition.rich,available,94.99,1999,high,low,10,namesilo,,,01/10/2026 02:41
 eb446684-6ba2-4a49-bfe3-8d2c0d37c40c,welch.rich,available,94.99,1999,high,low,5,namesilo,,,13/09/2026 10:47
+e7bbef18-53a7-444d-87be-8b24bdc96879,inspected.rich,available,94.99,1999,medium,low,9,namesilo,,,01/10/2026 16:29
 f473648a-0b02-45f3-823b-13e718e99c06,stretched.rich,available,94.99,1999,medium,low,9,namesilo,,,10/09/2026 22:34
 96bc1a03-4c2c-4d82-91c3-233f66b6b185,added.rich,available,94.99,1999,medium,low,5,namesilo,,,27/09/2026 21:50
 4495fef6-5493-40d2-b952-a0865531e78f,invaders.rich,available,78.99,160.71,medium,low,8,porkbun,,,30/09/2026 00:36
@@ -788,6 +820,7 @@ ddd86efa-bacf-43b9-be61-ca04ad9d5a8c,jung.rich,available,94.99,1999,high,low,4,n
 7df35c57-607d-4574-9933-f5904eff6fd8,submarines.rich,available,79,160.72,medium,low,10,dynadot,,,29/09/2026 17:53
 d90bbb26-d683-4c8e-abe7-be2fc17974c3,acetic.rich,available,94.99,1999,medium,low,6,namesilo,,,
 1e26c193-4e61-4394-91ac-1cb581a5ab14,exorbitant.rich,available,94.99,1999,medium,low,10,namesilo,,,17/08/2026 17:36
+9870d602-7489-4f52-b26a-e6e1e9952270,sheryl.rich,available,79,160.72,medium,low,6,dynadot,,,02/10/2026 00:13
 969304b0-f8ea-48f9-98e4-eb1b035919a1,blackpoll.rich,available,94.99,1999,medium,low,9,namesilo,,,24/09/2026 02:54
 e4251981-7e12-419c-840e-ec2b0a699de6,gather.rich,available,149.99,299.99,high,medium,6,name.com,,,23/09/2026 20:27
 fb2f8f36-7f54-4014-a6ea-be45836946e5,thrifty.rich,available,94.99,1999,high,low,7,namesilo,,,11/09/2026 14:34
@@ -811,6 +844,8 @@ f0c3352c-c6b9-4e56-b18d-8c8aa7053cb6,likelihood.rich,available,79,160.72,high,lo
 faeec251-a150-48ad-ae6e-fbe4c0b5c2b1,rodent.rich,available,79,160.72,medium,low,6,dynadot,,,29/09/2026 19:04
 eacc5c7b-5ee5-4bbc-8bba-bd8fc30c86e0,hurt.rich,available,94.99,1999,high,low,4,namesilo,,,25/09/2026 06:49
 2c862fbc-3470-4345-bafb-13744f2ccf2b,validly.rich,available,94.99,1999,medium,low,7,namesilo,,,16/09/2026 10:42
+5cb3bf4c-85fc-4308-88a9-18014acad928,renton.rich,available,94.99,1999,high,low,6,namesilo,,,01/10/2026 11:20
+806a5245-8d74-44f4-bbab-64cdc41e27f9,lemuel.rich,available,94.99,1999,medium,low,6,namesilo,,,01/10/2026 09:21
 5c6c5648-e9d5-4058-98e8-4707fcf28e66,failing.rich,available,94.99,1999,medium,low,7,namesilo,,,17/08/2026 20:44
 533e4d07-eb7f-4186-bac9-87ba97e527d6,whitener.rich,available,94.99,1999,medium,low,8,namesilo,,,24/09/2026 03:50
 62f22154-8c43-403e-9c0f-51aafa4d7e8e,bedhead.rich,available,149.99,,medium,low,8,name.com,,,
@@ -830,6 +865,7 @@ e12846d7-bfa6-4b38-8c6f-8fd9ebcd94c8,earnestly.rich,available,94.99,1999,medium,
 28941464-b998-46a8-b31b-e98fe17e5c7d,portraits.rich,available,94.99,1999,medium,low,9,namesilo,,,30/09/2026 00:16
 a89dc48a-38e9-47eb-8801-a5408733112b,freiburg.rich,available,79,160.72,high,low,8,dynadot,,,28/09/2026 03:48
 5ec27bff-2fd6-41d3-a3a8-6f5b5fe48119,steep.rich,available,94.99,1999,high,low,5,namesilo,,,17/08/2026 17:40
+af766c7e-1e20-4d25-bb5c-c3038a848690,districts.rich,available,78.99,160.71,medium,low,9,porkbun,,,01/10/2026 16:30
 3d6a4614-efd7-497c-a767-c950c010cf46,knavish.rich,available,94.99,1999,medium,low,7,namesilo,,,13/08/2026 04:34
 c31ed65d-653a-499d-8ab4-1a3a4365458e,intervene.rich,available,94.99,1999,high,low,9,namesilo,,,29/09/2026 08:23
 f4cf6943-dc47-4f5f-b22a-dd4de9bb6585,worrisome.rich,available,94.99,1999,medium,low,9,namesilo,,,14/08/2026 13:21
@@ -844,6 +880,7 @@ f462a3b8-7dbb-4103-9a47-d4048f8f1681,booming.rich,available,149.99,299.99,high,l
 cbc00947-ad26-4811-8466-e80beee2aaef,europeans.rich,available,94.99,1999,medium,low,9,namesilo,,,30/09/2026 15:43
 eb57cb95-c139-4ed1-9474-35bb49db3aee,bicuspid.rich,available,149.99,299.99,high,low,8,name.com,,,09/08/2026 19:44
 f7a46cf0-630e-428e-bf0c-a6548aa7b8a3,call.rich,available,78.99,160.71,high,medium,4,porkbun,,,29/09/2026 02:48
+59a62418-3b5a-4813-8a6d-96234d39f24d,hijacking.rich,available,79,160.72,medium,low,9,dynadot,,,01/10/2026 19:58
 e5a97cbd-8f4f-404a-9579-102f6ba529ab,banger.rich,available,94.99,1999,high,low,6,namesilo,,,22/09/2026 01:46
 69a35a72-b59b-4877-bebd-26546140c035,sergey.rich,available,94.99,1999,medium,low,6,namesilo,,,29/09/2026 04:18
 1aa15b31-25b2-47dc-81c2-cc91d262e0a9,residue.rich,available,94.99,1999,high,low,7,namesilo,,,09/09/2026 15:05
@@ -864,10 +901,14 @@ ffdd8745-862e-4327-82bc-35531f2eb4dd,suitably.rich,available,,,medium,low,8,,,,1
 6e2c482c-538c-48c0-a339-9dc25cc69071,himalayan.rich,available,94.99,1999,high,low,9,namesilo,,,21/08/2026 09:25
 f8a6419d-6044-4a90-bdd4-7d29df7901ad,inculpable.rich,available,94.99,1999,medium,low,10,namesilo,,,10/08/2026 12:55
 7b195905-0c01-4d43-99c2-0628ec045567,prc.rich,available,94.99,1999,high,low,3,namesilo,,,25/09/2026 22:08
+67660386-e8d0-45bc-96fb-dac77664a77b,joyner.rich,available,94.99,1999,high,low,6,namesilo,,,01/10/2026 23:33
 b8e9053b-5326-4427-bb5b-4146d5cef3af,packers.rich,available,94.99,1999,medium,low,7,namesilo,,,01/10/2026 01:07
 3e907e51-b852-42ee-ad22-9fba7c45ab0c,scanty.rich,available,94.99,1999,medium,low,6,namesilo,,,09/09/2026 22:38
 4ac53f7f-130d-4006-b1e1-79c4f6fe36ac,elie.rich,available,79,160.72,medium,low,4,dynadot,,,30/09/2026 20:32
+6f6933c2-0608-4e4d-bdb3-ee4025b6a37f,pluck.rich,available,78.99,160.71,high,low,5,porkbun,,,01/10/2026 19:35
 4bb1db78-d4aa-4053-a211-ae7c83b49bf8,benito.rich,available,78.99,160.71,medium,low,6,porkbun,,,27/09/2026 19:23
+360c89bb-7217-4d34-8364-d76d0bf896bb,coils.rich,available,94.99,1999,medium,low,5,namesilo,,,02/10/2026 03:31
+7052e309-f34d-47bf-8809-d0910eb6c34d,ema.rich,available,94.99,1999,high,low,3,namesilo,,,01/10/2026 16:52
 8a2c18b0-58cb-433f-bcd1-bd23674399c5,flapjack.rich,available,94.99,1999,high,low,8,namesilo,,,22/09/2026 14:32
 97a5c85f-6def-4871-b199-148205c72d93,carroty.rich,available,94.99,1999,medium,low,7,namesilo,,,11/08/2026 19:48
 cea42584-19e9-45ee-bb35-fdc4c0406666,armored.rich,available,94.99,1999,high,low,7,namesilo,,,22/09/2026 08:00
@@ -894,6 +935,8 @@ fca5949f-efaf-45f4-9e48-b68018357ad3,puffed.rich,available,94.99,1999,high,low,6
 6b08638d-3478-4693-9aa9-b8dff493b31b,showered.rich,available,94.99,1999,medium,low,8,namesilo,,,20/09/2026 16:51
 24dd7e8e-f7ea-4cd2-90b6-5947786e8427,inbound.rich,available,94.99,1999,high,low,7,namesilo,,,22/08/2026 00:41
 29ab6a0e-817f-4f18-812b-fd3e8ad5f597,practically.rich,available,94.99,1999,medium,low,11,namesilo,,,25/09/2026 11:39
+7609aab6-3701-4e21-923c-377e9df5b50d,households.rich,available,94.99,1999,medium,low,10,namesilo,,,02/10/2026 03:00
+893f69fb-e2f6-4de2-a8ce-cd09592c3c7d,licensing.rich,available,79,160.72,high,low,9,dynadot,,,02/10/2026 01:34
 6249cd73-38ac-4ea1-82a7-54b91cdb5c43,solitary.rich,available,94.99,1999,high,low,8,namesilo,,,24/08/2026 08:55
 030aa2d6-6744-426e-bc7b-bbe85cc3c074,rebuild.rich,available,94.99,1999,high,low,7,namesilo,,,28/09/2026 06:58
 eb32bb6b-b491-4e6c-b999-631f4d896f89,cocacola.rich,available,94.99,1999,high,high,9,namesilo,,,17/09/2026 07:18
@@ -912,11 +955,11 @@ b62137ee-e09a-492d-8a61-87376d2b3bb4,tinny.rich,available,94.99,1999,medium,low,
 37ef1692-3c67-4375-afc1-71c2749481ad,genevieve.rich,available,94.99,1999,medium,low,9,namesilo,,,28/09/2026 16:45
 6056b2f2-9482-4343-80a2-d93c7d0ab4f3,gabriele.rich,available,79,160.72,medium,low,8,dynadot,,,30/09/2026 21:12
 76c8c9b3-4197-4dc7-bf5c-4914c762e895,comparing.rich,available,94.99,1999,high,low,9,namesilo,,,24/09/2026 16:45
-71e75b17-e7a3-416d-9b42-7736a15c1f69,wealth.rich,resell,94.99,1999,high,low,6,Dynadot Inc,11/06/2026 20:18,11/06/2027 20:18,28/09/2026 12:30
+71e75b17-e7a3-416d-9b42-7736a15c1f69,wealth.rich,resell,94.99,1999,high,low,6,Dynadot Inc,11/06/2026 20:18,11/06/2027 20:18,01/10/2026 20:31
 3999478e-00c9-49f6-9c59-d9595e089ec6,unrelated.rich,available,,,medium,low,9,,,,12/09/2026 18:04
 7b41d533-c9d8-4b1e-b3fe-98c3bc4dd1a0,hedges.rich,available,79,160.72,medium,low,6,dynadot,,,30/09/2026 04:31
 22fc471d-db09-4e89-be52-75cecff6afde,restore.rich,available,94.99,1999,high,low,7,namesilo,,,28/09/2026 01:17
-4364343e-c084-4465-89b6-c8dcc1d84141,katy.rich,available,149.99,,high,low,4,name.com,,,
+4364343e-c084-4465-89b6-c8dcc1d84141,katy.rich,available,78.99,160.71,high,low,4,porkbun,,,01/10/2026 22:40
 963806a4-c1df-47de-892a-f89509fa286e,tattletale.rich,available,94.99,1999,medium,low,10,namesilo,,,11/09/2026 10:28
 8123ce66-786d-453f-8628-146a142c5245,travelable.rich,available,,,medium,low,10,,,,11/09/2026 19:05
 1140e95a-45ac-436a-a0fd-4001daa7a944,joining.rich,available,94.99,1999,high,low,7,namesilo,,,25/09/2026 23:20
@@ -945,57 +988,14 @@ d26ea4b6-0046-472d-afcd-29c320bf8b1e,starred.rich,available,94.99,1999,medium,lo
 82815e14-1fc1-4be0-a2ad-e82de4aa572d,kyrgyz.rich,available,94.99,1999,high,low,6,namesilo,,,30/09/2026 12:53
 ea6b477e-3297-4768-8604-a0b812daf50e,acinic.rich,available,94.99,1999,medium,low,6,namesilo,,,
 b74130d6-066b-4aca-98f6-49aa43a97daf,retinal.rich,available,94.99,1999,high,low,7,namesilo,,,09/09/2026 15:37
-7ecd3cfb-0332-4af4-980f-762370b0f560,centralised.rich,available,94.99,1999,high,low,11,namesilo,,,
+7ecd3cfb-0332-4af4-980f-762370b0f560,centralised.rich,available,94.99,1999,high,low,11,namesilo,,,02/10/2026 01:46
 eb6975a3-61ff-4d00-92f7-b58d06fe4ffe,cruciform.rich,available,94.99,1999,medium,low,9,namesilo,,,13/08/2026 08:42
 7acdbd5d-2f03-4b32-a906-078d4af8375b,scapegrace.rich,available,94.99,1999,medium,low,10,namesilo,,,24/09/2026 01:41
 5f6b573c-2f04-462a-a763-29f48adf64a5,objected.rich,available,149.99,299.99,medium,low,8,name.com,,,18/09/2026 23:50
 68acde3f-4a14-4b71-96be-b6b03cfaef8d,seltzer.rich,available,94.99,1999,high,low,7,namesilo,,,24/09/2026 12:47
 338925c6-2820-4bcf-9091-924a63f330d2,fec.rich,available,94.99,1999,high,low,3,namesilo,,,30/09/2026 13:10
-9f688c00-ef83-427b-8ce6-386fcd92ba02,amateur.rich,available,79,160.72,high,low,7,dynadot,,,29/09/2026 03:23
+9f688c00-ef83-427b-8ce6-386fcd92ba02,amateur.rich,available,79,160.72,high,low,7,dynadot,,,01/10/2026 20:01
+afe87a68-d321-46ca-9bb8-4a4729c5a925,wada.rich,available,78.99,160.71,medium,low,4,porkbun,,,01/10/2026 14:19
 ebf61cf8-d811-461b-991c-d7e93d9f5033,approve.rich,available,94.99,1999,high,low,7,namesilo,,,03/09/2026 23:23
 6edbfb79-16cc-46a1-88ab-8f3223edaf37,unsure.rich,available,94.99,1999,medium,low,6,namesilo,,,22/08/2026 01:08
 cbf237b8-1c03-40d7-9434-1044ceee3271,requisite.rich,available,94.99,1999,high,low,9,namesilo,,,17/08/2026 13:21
-f49b02c0-645b-4f2c-8f51-8fd59e1012eb,steely.rich,available,94.99,1999,medium,low,6,namesilo,,,10/09/2026 19:47
-83dc70e0-888a-40d5-8a01-80e1f7d52ed6,pci.rich,available,94.99,1999,high,low,3,namesilo,,,28/09/2026 11:26
-5ee3abe8-0e8e-45a4-bcf0-6212fd6719b4,elongate.rich,available,94.99,1999,high,low,8,namesilo,,,16/08/2026 05:24
-8a7dfd34-5926-4965-a0ac-0e9df7b7bbf2,goshawk.rich,available,94.99,1999,medium,low,7,namesilo,,,16/09/2026 22:31
-6beeab5d-3797-4107-a308-157481516fd7,barons.rich,available,79,160.72,high,low,6,dynadot,,,30/09/2026 13:35
-7d56efd0-8dd4-4ab7-ad68-782365a7689d,monet.rich,available,79,160.72,high,low,5,dynadot,,,29/09/2026 18:23
-722b14f0-e68c-4ca4-be4e-132306521bb9,nucleonics.rich,available,94.99,1999,medium,low,10,namesilo,,,21/09/2026 00:14
-59210c70-05b1-4d83-b461-d25aed377d0f,demise.rich,available,94.99,1999,high,low,6,namesilo,,,14/08/2026 21:56
-e0dd3e92-b682-478a-a175-b4245697163e,anxiety.rich,available,94.99,1999,high,low,7,namesilo,,,19/09/2026 15:59
-dd507883-2dce-4778-8035-49f34f70374c,xinhua.rich,available,78.99,160.71,medium,low,6,porkbun,,,30/09/2026 05:40
-096e4697-7e5b-4fab-8648-622701b9769e,velcro.rich,available,94.99,1999,high,medium,6,namesilo,,,19/09/2026 10:11
-d31cc864-aef1-4100-ba55-86a7bbf34aaa,unsinkable.rich,available,,,medium,low,10,,,,12/09/2026 19:58
-7ddab14b-977e-44e8-9f09-4cf99d55e1f5,fire.rich,available,94.99,1999,high,high,4,namesilo,,,24/09/2026 19:12
-adb569e1-2f61-442b-a968-723531fac86d,sampson.rich,available,94.99,1999,medium,low,7,namesilo,,,27/09/2026 01:42
-16826457-fb5f-4cfa-ba3f-90d09f62c549,nation.rich,available,94.99,1999,high,low,6,namesilo,,,29/09/2026 03:15
-777cc8f3-3f9a-4d15-8221-f95b828b5738,zygoma.rich,available,94.99,1999,medium,low,6,namesilo,,,20/09/2026 03:03
-c3327049-41a0-42d9-87d1-0e38524e8182,alternate.rich,available,94.99,1999,high,low,9,namesilo,,,22/09/2026 02:29
-38564ee2-a7b6-45ea-baef-54cc4e1ef933,imprudent.rich,available,94.99,1999,medium,low,9,namesilo,,,21/08/2026 23:23
-d28bd792-836c-469b-8ec6-69866c36068f,destitute.rich,available,94.99,1999,medium,low,9,namesilo,,,14/08/2026 04:32
-59536299-baa9-4328-b6b4-1dad511bcb98,xlii.rich,available,94.99,1999,medium,low,4,namesilo,,,
-309025cc-a740-4024-91fc-b7fb8a7242f2,trudy.rich,available,79,160.72,medium,low,5,dynadot,,,30/09/2026 21:14
-c82049c4-d643-40e5-8fd1-7f657e5db2bb,actress.rich,available,78.99,160.71,high,low,7,porkbun,,,28/09/2026 18:10
-b80ab4e1-2759-4db5-9d38-b538c90a7ddf,wire.rich,available,94.99,1999,high,low,4,namesilo,,,29/09/2026 05:42
-82a833ee-8c6f-49a5-8f17-3c884fde1c91,fungicide.rich,available,149.99,299.99,medium,low,9,name.com,,,
-3d7522df-fcc3-4118-b3c6-315ed5f2a276,having.rich,available,149.99,3499.99,high,low,6,godaddy,,,01/10/2026 01:15
-efdd4879-1aaa-4694-9ca3-4335031b08ea,bassoon.rich,available,94.99,1999,medium,low,7,namesilo,,,22/09/2026 12:33
-e9297c2a-b4df-4d78-8195-21b84ad5dad2,nevertheless.rich,available,79,160.72,medium,low,12,dynadot,,,28/09/2026 22:40
-a9bf7cab-1a77-4e9f-afce-0ac606d9fffa,fleer.rich,available,149.99,299.99,low,low,5,name.com,,,18/08/2026 17:47
-e2f5bdc6-9d51-422b-af8e-9ed1fca445e2,brunet.rich,available,94.99,1999,high,high,6,namesilo,,,11/08/2026 06:54
-76b68302-bb3f-4532-a4b1-c222f3a79789,seedy.rich,available,94.99,1999,medium,low,5,namesilo,,,
-f8cbddfd-cb3a-4522-9e0f-8373c1706757,marin.rich,available,94.99,1999,high,low,5,namesilo,,,25/09/2026 15:45
-06d518e6-8e00-4151-8012-792be0bece39,sport.rich,available,94.99,1999,high,medium,5,namesilo,,,25/09/2026 22:38
-77d7fbac-6de2-4e04-b88f-3475765baa52,orient.rich,available,94.99,1999,high,medium,6,namesilo,,,29/09/2026 12:08
-e384c7b7-c327-4e9c-861d-904a3fab97fd,unfinished.rich,available,94.99,1999,high,low,10,namesilo,,,12/09/2026 10:17
-04824ebd-6a78-4af7-aa14-58564e94728b,portfolio.rich,available,79,160.72,high,low,9,dynadot,,,28/09/2026 20:13
-b25e7ee1-6595-4770-85e6-beb788f9783e,calibre.rich,available,94.99,1999,high,low,7,namesilo,,,24/09/2026 11:45
-b2bebd93-9726-4b53-b3b5-6651872cff11,improvised.rich,available,94.99,1999,high,low,10,namesilo,,,21/08/2026 23:19
-91b948cc-1c36-4b2a-a7fd-b1a3b9b7b060,poop.rich,available,94.99,1999,high,low,4,namesilo,,,24/08/2026 10:29
-85d6c58d-9aba-4ee5-be3a-48b8fe2e29d3,jose.rich,available,94.99,1999,medium,low,4,namesilo,,,28/09/2026 11:51
-e365514f-22a6-4bb8-919c-2ec7cc9ba058,weirdly.rich,available,94.99,1999,medium,low,7,namesilo,,,16/09/2026 11:23
-c4d9b69d-7858-4d2a-92fc-6a6b628e0936,amphibious.rich,available,94.99,1999,medium,low,10,namesilo,,,
-486723c5-4148-4861-b4c8-885a85a340c5,galician.rich,available,94.99,1999,high,low,8,namesilo,,,29/09/2026 12:26
-d0223613-25fa-4ef7-a0d0-d912f6f6d477,dawson.rich,available,94.99,1999,high,low,6,namesilo,,,25/09/2026 04:48
-9bddac1c-e275-48ae-9f7a-9ed4814c0e67,eyed.rich,available,149.99,299.99,high,low,4,name.com,,,17/08/2026 20:00
